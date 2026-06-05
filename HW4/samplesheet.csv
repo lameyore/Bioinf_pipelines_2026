@@ -1,0 +1,5 @@
+sample_id,group,read1,read2,reference
+sample_A1,virus_A,/data/reads/sampleA1_R1.fastq.gz,/data/reads/sampleA1_R2.fastq.gz,/data/refs/refA.fa
+sample_A2,virus_A,/data/reads/sampleA2_R1.fastq.gz,/data/reads/sampleA2_R2.fastq.gz,/data/refs/refA.fa
+sample_B1,virus_B,/data/reads/sampleB1_R1.fastq.gz,/data/reads/sampleB1_R2.fastq.gz,/data/refs/refB.fa
+sample_B2,virus_B,/data/reads/sampleB2_R1.fastq.gz,/data/reads/sampleB2_R2.fastq.gz,/data/refs/refB.fa
